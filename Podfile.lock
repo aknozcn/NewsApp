@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.4.3)
+  - FFPopup (1.1.5)
+  - Kingfisher (6.3.0)
+  - MotionToastView (0.1.10)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+
+DEPENDENCIES:
+  - FFPopup
+  - Kingfisher
+  - MotionToastView
+  - Moya
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FFPopup
+    - Kingfisher
+    - MotionToastView
+    - Moya
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  FFPopup: a208dcee8db3e54ec4a88fcd6481f6f5d85b7a83
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  MotionToastView: e6e03c88141c2da252cce3f5c4512e76281b4754
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+
+PODFILE CHECKSUM: b3ed28fd1297044abbaee7d4f8dc74fa546f6b36
+
+COCOAPODS: 1.10.0
