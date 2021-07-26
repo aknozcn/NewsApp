@@ -15,5 +15,5 @@ Bu proje [News API](https://newsapi.org "News API") kullanılarak kişisel becer
 ### Kullanılanlar
 - [FFPopup](https://github.com/JonyFang/FFPopup "FFPopup")
 - [Kingfisher](https://github.com/onevcat/Kingfisher "Kingfisher")
-- [FFPopup](https://github.com/Moya/Moya "Moya")
-- [Kingfisher](https://github.com/sameersyd/MotionToastView "MotionToastView")
+- [Moya](https://github.com/Moya/Moya "Moya")
+- [MotionToastView](https://github.com/sameersyd/MotionToastView "MotionToastView")
